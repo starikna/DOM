@@ -25,6 +25,7 @@ export default class App {
   }
 
   static getHole(index) {
+    console.log(document.getElementById(`hole${index}`));
     return document.getElementById(`hole${index}`);
   }
 
