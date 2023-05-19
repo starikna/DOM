@@ -1,0 +1,36 @@
+body {
+  color: #999;
+}
+
+.field {
+  box-sizing: border-box;
+  width: 800px;
+  height: 800px;
+  background-color: blue;
+  margin-left: 20%;
+  color: aliceblue;
+  padding-left: 18px;
+  display: flex;
+  flex-wrap: wrap;
+  border-radius: 5%;
+}
+
+.item {
+  display: flex;
+  box-sizing: border-box;
+  border-radius: 50%;
+  width: 19%;
+  height: 19%;
+  background-color: azure;
+  margin-left: 5%;
+  margin-top: 4%;
+  border-style: double;
+  border-color: chocolate;
+  border-width: 4px;
+}
+
+.imageGoblin {
+  width: 90%;
+  height: 90%;
+  margin-left: 115px;
+}
