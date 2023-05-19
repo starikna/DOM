@@ -6,7 +6,6 @@
     "browser": true,
     "jest/globals": true
   },
-  "parser": "babel-eslint",
   "parserOptions": {
     "sourceType": "module"
   },
